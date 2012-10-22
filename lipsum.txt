@@ -1,7 +1,3 @@
-THESIS.
-
-This stuff is my thesis.
-
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia ipsum
 sit amet metus consequat et gravida purus vulputate. Nullam a tortor mattis
 dolor pretium pharetra. Nullam ac odio quis justo feugiat sodales quis non dui.
